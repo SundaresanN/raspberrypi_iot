@@ -1,0 +1,2 @@
+we're going to save this line in a text file
+lets append this line to previous example.txt
